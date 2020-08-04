@@ -1,4 +1,4 @@
-[Go ro README.md](../README.md)
+[Go to README.md](../README.md)
 # Installing docker and docker-compose
 ## Installing docker option 1
 
@@ -41,7 +41,7 @@ sudo sh get-docker.sh
 That will install Docker on your system
 
 
-## Check Docker has ben installed and is able to work
+## Check Docker has been installed and is able to work
 ```
 docker version
 sudo docker run hello-world
@@ -71,4 +71,4 @@ Check if docker-compose is installed correctly:
 docker-compose --version
 ```
 Command should return the version of docker-compose.
-[Go ro README.md](../README.md)
+[Go to README.md](../README.md)
