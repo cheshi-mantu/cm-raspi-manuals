@@ -71,4 +71,5 @@ Check if docker-compose is installed correctly:
 docker-compose --version
 ```
 Command should return the version of docker-compose.
+
 [Go to README.md](../README.md)
