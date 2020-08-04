@@ -1,3 +1,4 @@
+[Go ro README.md](../README.md)
 # Installing docker and docker-compose
 ## Installing docker option 1
 
@@ -70,3 +71,4 @@ Check if docker-compose is installed correctly:
 docker-compose --version
 ```
 Command should return the version of docker-compose.
+[Go ro README.md](../README.md)
